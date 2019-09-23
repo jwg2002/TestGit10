@@ -11,6 +11,9 @@ public class TestGit {
 	    System.out.println("hello2");
 	    System.out.println("hello3");
 	    
+	    System.out.println("分支1");
+	    
+	    
 
 	}
 
